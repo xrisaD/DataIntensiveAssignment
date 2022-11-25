@@ -1,3 +1,8 @@
-# KTH Assignments
-This repository contains my assignments for the following courses:
-1. Data Intensive Computing 
+# Data Intensive Computing
+
+A Machine Learning model for Disaster prediction using tweets. 
+
+Technologies:
+1. PySpark
+2. MLlib
+3. Lakehouse
